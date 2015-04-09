@@ -1,6 +1,6 @@
 {
   "name": "ticsta-template-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ticsta template validator",
   "main": "index.js",
   "dependencies": {
