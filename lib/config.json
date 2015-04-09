@@ -1,4 +1,4 @@
 {
   "name": "Template validator",
-  "task": "./tasks/noop"
+  "task": "./tasks/loader"
 }
