@@ -1,7 +1,7 @@
 {
-  "name": "ticsta-template-validator",
+  "name": "ticsta-template-inspector",
   "version": "0.0.2",
-  "description": "Ticsta template validator",
+  "description": "Ticsta template inspector",
   "main": "index.js",
   "dependencies": {
     "bluebird": "~2.9.24",
@@ -16,17 +16,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ticsta/template-validator.git"
+    "url": "https://github.com/ticsta/template-inspector.git"
   },
   "keywords": [
     "ticsta",
-    "validator",
+    "inspector",
     "template"
   ],
   "author": "Dumitru Cantea",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ticsta/template-validator/issues"
+    "url": "https://github.com/ticsta/template-inspector/issues"
   },
-  "homepage": "https://github.com/ticsta/template-validator"
+  "homepage": "https://github.com/ticsta/template-inspector"
 }
