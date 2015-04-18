@@ -1,6 +1,6 @@
 {
   "name": "ticsta-template-inspector",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Ticsta template inspector",
   "main": "index.js",
   "dependencies": {
